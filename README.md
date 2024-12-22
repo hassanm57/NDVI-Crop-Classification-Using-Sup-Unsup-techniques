@@ -1,4 +1,4 @@
-
+## NDVI Crop Classification (rice-cotton) Using ML Algorithms
 ## Dataset
 
 - **Data Source**: NDVI time-series values for 2021, 2022, and 2023.
